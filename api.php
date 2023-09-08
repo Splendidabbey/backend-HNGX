@@ -15,8 +15,8 @@ $response = [
     "current_day" => $currentDay,
     "utc_time" => $utcTime,
     "track" => $track,
-    "github_file_url" => "https://github.com/username/repo/blob/main/file_name.ext",
-    "github_repo_url" => "https://github.com/username/repo",
+    "github_file_url" => "https://github.com/Splendidabbey/backend-HNGX/blob/main/api.php",
+    "github_repo_url" => "https://github.com/Splendidabbey/backend-HNGX",
     "status_code" => 200
 ];
 
